@@ -44,8 +44,8 @@ Tenho interesse em desenvolvimento **Full Stack**, criação de APIs, sistemas w
 
 ## 📫 Contato
 
-- GitHub: SrGuss
-- LinkedIn: ustavo-gabriel-pesce-moura-03066a241
+- GitHub: [SrGuss](https://github.com/SrGuss)
+- LinkedIn: [Gustavo Moura](https://www.linkedin.com/in/gustavo-gabriel-pesce-moura-03066a241/)
 - Email: diretor.srgus@gmail.com
 
 ---
